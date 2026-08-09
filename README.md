@@ -31,7 +31,7 @@ The purpose of this repository is to build a strong foundation in Python by lear
 • Python Libraries  
 • Practice Programs & Examples  
 
-## 🎯 Purpose
+## Purpose:
 
 This repository is created for:
 
@@ -57,7 +57,7 @@ Each topic includes explanations, examples, and practice programs wherever requi
 
 This repository will be continuously updated as I learn and practice more Python concepts.
 
-## Author
+## Author:
 
 Nidhi Sharma
 
